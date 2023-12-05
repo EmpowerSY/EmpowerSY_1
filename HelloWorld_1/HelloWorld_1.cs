@@ -18,6 +18,7 @@ namespace HelloWorld_1
 		public void Run(IEngine engine)
 		{
 			// this generate some information
+			// comment 2
 			engine.GenerateInformation("Hello World");
 		}
 	}
